@@ -1,0 +1,1 @@
+{"connection_threshold":800,"cpu_threshold_percent":80,"db_instance_ids":["<DB_INSTANCE_ID_1>","<DB_INSTANCE_ID_2>"],"metric_period_hours":1,"sns_topic_arn":"arn:aws:sns:<REGION>:<ACCOUNT_ID>:rds-alerts"}
